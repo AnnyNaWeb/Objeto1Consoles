@@ -42,4 +42,4 @@ Ao que parece, o físico William Higinbotham, integrante do projeto Manhattan, r
 No auge da Guerra Fria, ele elaborou um mecanismo que incrementasse o número de visitantes do Brookhaven National Laboratories, sediado em Nova York, pois o governo norte-americano tinha como intenção exibir seu potencial nuclear diante de seu povo. Desta forma ele produziu um jogo de tênis com apenas dois traços primitivos e uma bola, batizando-o de Tennis Programming ou Tennis for Two, exposto em uma tela de 15 polegadas e projetado para ser processado em um computador analógico.
 
 Tennis for Two recurso utilizado por William o surpreendeu, pois lhe garantiu um êxito sem igual; mas nem este surpreendente retorno foi suficiente para que ele decidisse patentear seu invento e comercializá-lo. Assim, ficou célebre apenas como um dos criadores da bomba atômica, e a lembrança de sua participação na criação dos videogames tornou-se quase nula.
->>>>>>> 841f22cedfd6c50e7f4f6cd653a65200003dfe75
+
